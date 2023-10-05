@@ -15,7 +15,7 @@
   <?=$header?>
 
   <main id="main_home">
-    <!-- Leandro vai aprender agora -->
+    <!-- Rafa best Dev -->
   </main>
 
 </body>
