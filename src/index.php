@@ -15,7 +15,7 @@
   <?=$header?>
 
   <main id="main_home">
-    <!-- Bora funcionar agora meu rei pra deixar Leandro mais P da vida -->
+    <!-- Leandro vai aprender agora -->
   </main>
 
 </body>
